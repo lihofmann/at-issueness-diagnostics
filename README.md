@@ -1,5 +1,7 @@
 # at-issueness
 
+Experiment files, data, and analysis scripts for the paper manuscript "What is at-issueness? An experimental comparison of diagnostics".
+
 ## Folders in this directory:
 ```
 ├── experiments
